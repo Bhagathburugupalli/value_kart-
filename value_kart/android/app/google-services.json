@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "504610756137",
+    "project_id": "value-kart-40af5",
+    "storage_bucket": "value-kart-40af5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504610756137:android:c2e8fbce4c5a5ec8bd6e38",
+        "android_client_info": {
+          "package_name": "com.example.value_kart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB23m5uBraVgGt8QbH4JcjPX0t2ITW_66c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
